@@ -17,4 +17,4 @@ jobs:
       - name: Simulate Deployment
         run: |
           echo "Deploying application..."
-          echo "Deployment completed successfully!"
+          echo "Deployment completed successfully"
