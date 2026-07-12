@@ -1,0 +1,20 @@
+{
+  "name": "ci-cd-assignment",
+  "version": "1.0.0",
+  "description": "A sample project demonstrating the implementation of a Continuous Integration and Continuous Deployment (CI/CD) pipeline using GitHub Actions. The pipeline automates building, testing, and deployment to improve software quality and development efficiency.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bilal-devops-journey/ci-cd-assignment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bilal-devops-journey/ci-cd-assignment/issues"
+  },
+  "homepage": "https://github.com/bilal-devops-journey/ci-cd-assignment#readme"
+}
